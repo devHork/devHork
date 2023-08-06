@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devHork
+- 👀 I’m interested in JavaScript and Python
+- 🌱 I’m currently learning JavaScript.
+- 📫 How to reach me: _gaboto on Discord
